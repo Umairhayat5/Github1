@@ -3,3 +3,5 @@ We can edit also in GitHUb.com
 
 
 Smart Git.
+
+Change it to smart git.
