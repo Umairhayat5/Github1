@@ -1,2 +1,5 @@
 This work is in local machine.
 We can edit also in GitHUb.com
+
+
+Smart Git.
